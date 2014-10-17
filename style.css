@@ -384,20 +384,22 @@ p{
 #progetto h3{
     text-align: center;
 }
-#progetto{
+/* #progetto{
     text-align: center;
-}
+} */
 #publications h3{
     text-align: left;
 }
 .main li{
-    list-style:none;
-    text-decoration: none;
+    /* list-style:none;
+    text-decoration: none; */
     margin-bottom: 10px;
     }
 .main ul{
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
+    font-size: 1.25em;
+    line-height: 1.25em;
 }
 .main article{
     margin-bottom: 40px;
