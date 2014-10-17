@@ -308,7 +308,10 @@ button i.fa-bars{
     color:#211f1f;
 }
 .main{
-    margin: 60px 0;
+    /* margin: 60px 0; */
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 60px; 
 }
 .main article h3{
     margin-top: 0;
